@@ -1,4 +1,4 @@
-# LaTex Poster for Deep HDR Video Reconstruction (ICCV 2021)
+# LaTex Poster for MST-compression: Compressing and Accelerating BNNs with Minimum Spanning Tree" (ICCV 2023)
 
 ## Poster Example
 <p align="center">
